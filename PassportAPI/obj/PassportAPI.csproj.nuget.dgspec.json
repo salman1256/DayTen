@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\salma\\OneDrive\\Desktop\\Day-31\\PassportAPI\\PassportAPI.csproj": {}
+    "C:\\Users\\salma\\OneDrive\\Desktop\\Day-10\\PassportAPI\\PassportAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\salma\\OneDrive\\Desktop\\Day-31\\PassportAPI\\PassportAPI.csproj": {
+    "C:\\Users\\salma\\OneDrive\\Desktop\\Day-10\\PassportAPI\\PassportAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\salma\\OneDrive\\Desktop\\Day-31\\PassportAPI\\PassportAPI.csproj",
+        "projectUniqueName": "C:\\Users\\salma\\OneDrive\\Desktop\\Day-10\\PassportAPI\\PassportAPI.csproj",
         "projectName": "PassportAPI",
-        "projectPath": "C:\\Users\\salma\\OneDrive\\Desktop\\Day-31\\PassportAPI\\PassportAPI.csproj",
+        "projectPath": "C:\\Users\\salma\\OneDrive\\Desktop\\Day-10\\PassportAPI\\PassportAPI.csproj",
         "packagesPath": "C:\\Users\\salma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\salma\\OneDrive\\Desktop\\Day-31\\PassportAPI\\obj\\",
+        "outputPath": "C:\\Users\\salma\\OneDrive\\Desktop\\Day-10\\PassportAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

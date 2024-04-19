@@ -11,8 +11,8 @@ using PassportAPI.Data;
 namespace PassportAPI.Migrations
 {
     [DbContext(typeof(PassportDbContext))]
-    [Migration("20230822050925_PassportMig")]
-    partial class PassportMig
+    [Migration("20240419090453_IntialMig")]
+    partial class IntialMig
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

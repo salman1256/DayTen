@@ -5,7 +5,7 @@
 namespace PassportAPI.Migrations
 {
     /// <inheritdoc />
-    public partial class PassportMigration : Migration
+    public partial class IntialMig : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
